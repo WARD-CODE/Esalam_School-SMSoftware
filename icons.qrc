@@ -1,0 +1,17 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource>
+        <file>icons/caisse_logo.png</file>
+        <file>icons/groupe_logo.png</file>
+        <file>icons/login_logo.png</file>
+        <file>icons/logo.png</file>
+        <file>icons/student_logo.png</file>
+        <file>icons/teacher_logo.png</file>
+        <file>icons/sortir_logo.png</file>
+        <file>icons/time_logo.png</file>
+        <file>icons/new_student.png</file>
+        <file>icons/recherche.png</file>
+        <file>icons/ren_logo.png</file>
+        <file>icons/administration_logo.png</file>
+        <file>icons/imprimante_logo.png</file>
+    </qresource>
+</RCC>
